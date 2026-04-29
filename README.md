@@ -17,6 +17,7 @@ At the core of the system is a Raspberry Pi installed at the base of the hive, c
 - **Load cell** — monitors hive weight to provide insight into food reserves and seasonal changes
 
 Data is processed locally and surfaced through a clean, intuitive dashboard that highlights hive status and draws attention to anything that might need intervention.
+
 ---
 
 ## Repository structure
